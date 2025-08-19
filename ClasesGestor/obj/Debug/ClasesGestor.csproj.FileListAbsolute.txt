@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\bin\Debug\ClasesGestor.dll
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\bin\Debug\ClasesGestor.pdb
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\obj\Debug\ClasesGestor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\obj\Debug\ClasesGestor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\obj\Debug\ClasesGestor.dll
+C:\Users\Usuario\Desktop\VS prueba\GestorViajes\ClasesGestor\obj\Debug\ClasesGestor.pdb
